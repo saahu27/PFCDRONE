@@ -45,5 +45,5 @@ To run the Simulink program and model,
 
 
 
-If any issues in opening/running/accessing the files, please reach out to amalapak@umd.edu. 
+If any issues in opening/running/accessing the files, please reach out to sahruday@umd.edu. 
 
